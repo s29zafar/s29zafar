@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @s29zafar
-- 👀 I’m interested in Mathematics, Computer Science and its applications such as automation, backend developement and data engineering 
-- 🌱 I’m currently learning the fundamentals of web and cloud applications
-- 💞️ I’m looking to collaborate on anything interesting!
-- 📫 You can reach me via LinkedIn at https://www.linkedin.com/in/saimhzafar/. Hope to see you soon!
+Hi there! I'm Saim Zafar, a third-year Computational Mathematics and Statistics student at the University of Waterloo. I have a passion for AI, machine learning, and data science. I love working on innovative projects and applying advanced technologies to solve real-world problems. Check out my repositories to see what I've been up to! 🚀
 
-<!---
-s29zafar/s29zafar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/saimhzafar/).
